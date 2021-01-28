@@ -41,6 +41,10 @@ print(my_name*3)
 print('hello, world. This is my first python string.'.split('.'))
 
 #3.9
+#message= 'Tom's id is 123'
+
+#print(message
+
 message= "Tom's id is 123"
 
 print(message)
